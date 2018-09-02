@@ -16,7 +16,7 @@ btn =
 	color: '#FFFFFF'
 	fontSize: '22px'
 	textAlign: 'center'
-	lineHeight: '50px'
+	lineHeight: 2.1
 
 info_text.html = '<h1>國立成功大學工業設計所乙組<br>人因互動設計實驗室成員作品展 <br> 時間：09/14（五）~ 9 / 16（日）<br> 地點：台南市公園路739號<h1>'
 info_text.style = h1
@@ -79,29 +79,29 @@ team = new Layer
 btnTapEnd = (item) ->
 	item.backgroundColor = 'rgba(0,0,0,0)'
 	
-menu_about.onTapStart (event, layer) ->
+about.onTapStart (event, layer) ->
 	flow.showNext(view_about)
 	this.backgroundColor = '#394851'
 	
-menu_map.onTapStart ->
+map.onTapStart ->
 	flow.showNext(view_map)
 	this.backgroundColor = '#394851'
 	
-menu_team.onTapStart (event, layer) ->
+team.onTapStart (event, layer) ->
 	flow.showNext(view_about)
 	this.backgroundColor = '#394851'
 	
-menu_layout.onTapStart (event, layer) ->
+layout.onTapStart (event, layer) ->
 	flow.showNext(view_layout)
 	this.backgroundColor = '#394851'
 
-menu_map.onTapEnd (event, layer) ->
+map.onTapEnd (event, layer) ->
 	this.backgroundColor = 'rgba(0,0,0,0)'
-menu_layout.onTapEnd (event, layer) ->
+layout.onTapEnd (event, layer) ->
 	this.backgroundColor = 'rgba(0,0,0,0)'
-menu_about.onTapEnd (event, layer) ->
+about.onTapEnd (event, layer) ->
 	this.backgroundColor = 'rgba(0,0,0,0)'
-menu_team.onTapEnd (event, layer) ->
+team.onTapEnd (event, layer) ->
 	this.backgroundColor = 'rgba(0,0,0,0)'
 	
 
