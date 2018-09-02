@@ -15,7 +15,7 @@ menu_map.onTapStart ->
 	this.backgroundColor = '#394851'
 	
 menu_team.onTapStart (event, layer) ->
-	flow.showNext(view_team)
+	flow.showNext(view_about)
 	this.backgroundColor = '#394851'
 	
 menu_layout.onTapStart (event, layer) ->

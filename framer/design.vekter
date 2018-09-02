@@ -1311,123 +1311,6 @@
                 "targetName" : null,
                 "radiusBottomRight" : 0,
                 "blurEnabled" : 0
-              },
-              {
-                "sepiaEnabled" : 0,
-                "editable" : false,
-                "rotation" : 0,
-                "blurType" : "layer",
-                "__class" : "TextNode",
-                "id" : "F1q4Q07Zg",
-                "saturateEnabled" : 0,
-                "grayscale" : 0,
-                "hueRotateEnabled" : 0,
-                "widthFactor" : null,
-                "opacity" : 1,
-                "contrastEnabled" : 0,
-                "locked" : false,
-                "left" : null,
-                "styledText" : {
-                  "cached" : {
-                    "size" : {
-                      "width" : 37,
-                      "height" : 27
-                    },
-                    "os" : "10_12",
-                    "width" : 0,
-                    "html" : "<span data-offset-key=\"57ifq-0-0\" style=\"tab-size:4;font-family:&quot;NotoSansCJKtc-Medium&quot;, &quot;Noto Sans CJK TC&quot;, sans-serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:18px;letter-spacing:0px;line-height:1.5;font-weight:500\"><span data-text=\"true\">關於<\/span><\/span>"
-                  },
-                  "entityMap" : {
-
-                  },
-                  "blocks" : [
-                    {
-                      "depth" : 0,
-                      "inlineStyleRanges" : [
-                        {
-                          "style" : "COLOR:hsl(0, 0%, 100%)",
-                          "length" : 2,
-                          "offset" : 0
-                        },
-                        {
-                          "style" : "LETTERSPACING:0",
-                          "length" : 2,
-                          "offset" : 0
-                        },
-                        {
-                          "style" : "LINEHEIGHT:1.5",
-                          "length" : 2,
-                          "offset" : 0
-                        },
-                        {
-                          "style" : "ALIGN:right",
-                          "length" : 2,
-                          "offset" : 0
-                        },
-                        {
-                          "style" : "FONT:NotoSansCJKtc-Medium",
-                          "length" : 2,
-                          "offset" : 0
-                        },
-                        {
-                          "style" : "SIZE:18",
-                          "length" : 2,
-                          "offset" : 0
-                        }
-                      ],
-                      "entityRanges" : [
-
-                      ],
-                      "data" : {
-                        "emptyStyle" : [
-                          "COLOR:hsl(0, 0%, 100%)",
-                          "LETTERSPACING:0",
-                          "LINEHEIGHT:1.5",
-                          "ALIGN:right",
-                          "FONT:NotoSansCJKtc-Medium",
-                          "SIZE:18"
-                        ]
-                      },
-                      "text" : "關於",
-                      "key" : "57ifq",
-                      "type" : "unstyled"
-                    }
-                  ],
-                  "__class" : "StyledTextDraft"
-                },
-                "blendingMode" : "normal",
-                "invert" : 0,
-                "sepia" : 0,
-                "centerAnchorX" : 0.9313725490196079,
-                "blurEnabled" : 0,
-                "shadows" : [
-
-                ],
-                "parentid" : "o5wkpqkzP",
-                "brightnessEnabled" : 0,
-                "exportOptions" : [
-
-                ],
-                "name" : null,
-                "saturate" : 100,
-                "height" : 27,
-                "blendingEnabled" : 0,
-                "top" : 0,
-                "constraintsLocked" : false,
-                "right" : 0,
-                "visible" : true,
-                "centerAnchorY" : 0.1914893617021277,
-                "contrast" : 100,
-                "grayScaleEnabled" : 0,
-                "hueRotate" : 0,
-                "heightFactor" : null,
-                "targetName" : null,
-                "bottom" : null,
-                "blur" : 12,
-                "autoSize" : true,
-                "invertEnabled" : 0,
-                "width" : 37,
-                "brightness" : 100
               }
             ],
             "centerAnchorX" : 0.4933333333333333,
@@ -2168,7 +2051,7 @@
                 "constraintsLocked" : true,
                 "right" : 20,
                 "visible" : true,
-                "centerAnchorY" : 0.7271386430678466,
+                "centerAnchorY" : 0.7094395280235988,
                 "contrast" : 100,
                 "grayScaleEnabled" : 0,
                 "hueRotate" : 0,
@@ -2421,736 +2304,821 @@
             "blurEnabled" : 0
           },
           {
-            "radius" : 8,
+            "radius" : 0,
             "brightness" : 100,
             "hueRotateEnabled" : 0,
             "children" : [
               {
-                "sepiaEnabled" : 0,
-                "editable" : false,
-                "rotation" : 0,
-                "blurType" : "layer",
-                "__class" : "TextNode",
-                "id" : "rCZua_rg_",
-                "saturateEnabled" : 0,
-                "grayscale" : 0,
+                "radius" : 8,
+                "brightness" : 100,
                 "hueRotateEnabled" : 0,
+                "children" : [
+                  {
+                    "sepiaEnabled" : 0,
+                    "editable" : false,
+                    "rotation" : 0,
+                    "blurType" : "layer",
+                    "__class" : "TextNode",
+                    "id" : "rCZua_rg_",
+                    "saturateEnabled" : 0,
+                    "grayscale" : 0,
+                    "hueRotateEnabled" : 0,
+                    "widthFactor" : null,
+                    "opacity" : 1,
+                    "contrastEnabled" : 0,
+                    "locked" : false,
+                    "left" : null,
+                    "styledText" : {
+                      "cached" : {
+                        "size" : {
+                          "width" : 97,
+                          "height" : 36
+                        },
+                        "os" : "10_12",
+                        "width" : 0,
+                        "html" : "<span data-offset-key=\"773ji-0-0\" style=\"tab-size:4;font-family:&quot;NotoSansCJKtc-Light&quot;, &quot;Noto Sans CJK TC&quot;, sans-serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:24px;letter-spacing:0px;line-height:1.5;font-weight:200\"><span data-text=\"true\">策展團隊<\/span><\/span>"
+                      },
+                      "entityMap" : {
+
+                      },
+                      "blocks" : [
+                        {
+                          "depth" : 0,
+                          "inlineStyleRanges" : [
+                            {
+                              "style" : "COLOR:hsl(0, 0%, 100%)",
+                              "length" : 4,
+                              "offset" : 0
+                            },
+                            {
+                              "style" : "LETTERSPACING:0",
+                              "length" : 4,
+                              "offset" : 0
+                            },
+                            {
+                              "style" : "LINEHEIGHT:1.5",
+                              "length" : 4,
+                              "offset" : 0
+                            },
+                            {
+                              "style" : "SIZE:24",
+                              "length" : 4,
+                              "offset" : 0
+                            },
+                            {
+                              "style" : "ALIGN:center",
+                              "length" : 4,
+                              "offset" : 0
+                            },
+                            {
+                              "style" : "FONT:NotoSansCJKtc-Light",
+                              "length" : 4,
+                              "offset" : 0
+                            }
+                          ],
+                          "entityRanges" : [
+
+                          ],
+                          "data" : {
+                            "emptyStyle" : [
+                              "COLOR:hsl(0, 0%, 100%)",
+                              "LETTERSPACING:0",
+                              "LINEHEIGHT:1.5",
+                              "SIZE:24",
+                              "ALIGN:center",
+                              "FONT:NotoSansCJKtc-Light"
+                            ]
+                          },
+                          "text" : "策展團隊",
+                          "key" : "773ji",
+                          "type" : "unstyled"
+                        }
+                      ],
+                      "__class" : "StyledTextDraft"
+                    },
+                    "blendingMode" : "normal",
+                    "invert" : 0,
+                    "sepia" : 0,
+                    "centerAnchorX" : 0.4966216216216216,
+                    "blurEnabled" : 0,
+                    "shadows" : [
+
+                    ],
+                    "parentid" : "VbjGTI_8j",
+                    "brightnessEnabled" : 0,
+                    "exportOptions" : [
+
+                    ],
+                    "name" : null,
+                    "saturate" : 100,
+                    "height" : 36,
+                    "blendingEnabled" : 0,
+                    "top" : null,
+                    "constraintsLocked" : false,
+                    "right" : null,
+                    "visible" : true,
+                    "centerAnchorY" : 0.48,
+                    "contrast" : 100,
+                    "grayScaleEnabled" : 0,
+                    "hueRotate" : 0,
+                    "heightFactor" : null,
+                    "targetName" : null,
+                    "bottom" : null,
+                    "blur" : 12,
+                    "autoSize" : true,
+                    "invertEnabled" : 0,
+                    "width" : 97,
+                    "brightness" : 100
+                  }
+                ],
+                "centerAnchorX" : 0.7226666666666667,
+                "id" : "VbjGTI_8j",
+                "exportOptions" : [
+
+                ],
+                "exportIncludesBackground" : true,
+                "grayScaleEnabled" : 0,
+                "fillImagePixelHeight" : null,
+                "fillImagePixelWidth" : null,
+                "constraintsLocked" : true,
+                "fillImageResize" : "fill",
+                "blurType" : "layer",
+                "fillColor" : "rgba(0, 170, 255, 0.5)",
                 "widthFactor" : null,
-                "opacity" : 1,
-                "contrastEnabled" : 0,
-                "locked" : false,
+                "blendingEnabled" : 0,
+                "grayscale" : 0,
+                "top" : 93,
+                "saturate" : 100,
                 "left" : null,
-                "styledText" : {
-                  "cached" : {
-                    "size" : {
-                      "width" : 97,
-                      "height" : 36
-                    },
-                    "os" : "10_12",
-                    "width" : 0,
-                    "html" : "<span data-offset-key=\"773ji-0-0\" style=\"tab-size:4;font-family:&quot;NotoSansCJKtc-Light&quot;, &quot;Noto Sans CJK TC&quot;, sans-serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:24px;letter-spacing:0px;line-height:1.5;font-weight:200\"><span data-text=\"true\">策展團隊<\/span><\/span>"
-                  },
-                  "entityMap" : {
-
-                  },
-                  "blocks" : [
-                    {
-                      "depth" : 0,
-                      "inlineStyleRanges" : [
-                        {
-                          "style" : "COLOR:hsl(0, 0%, 100%)",
-                          "length" : 4,
-                          "offset" : 0
-                        },
-                        {
-                          "style" : "LETTERSPACING:0",
-                          "length" : 4,
-                          "offset" : 0
-                        },
-                        {
-                          "style" : "LINEHEIGHT:1.5",
-                          "length" : 4,
-                          "offset" : 0
-                        },
-                        {
-                          "style" : "SIZE:24",
-                          "length" : 4,
-                          "offset" : 0
-                        },
-                        {
-                          "style" : "ALIGN:center",
-                          "length" : 4,
-                          "offset" : 0
-                        },
-                        {
-                          "style" : "FONT:NotoSansCJKtc-Light",
-                          "length" : 4,
-                          "offset" : 0
-                        }
-                      ],
-                      "entityRanges" : [
-
-                      ],
-                      "data" : {
-                        "emptyStyle" : [
-                          "COLOR:hsl(0, 0%, 100%)",
-                          "LETTERSPACING:0",
-                          "LINEHEIGHT:1.5",
-                          "SIZE:24",
-                          "ALIGN:center",
-                          "FONT:NotoSansCJKtc-Light"
-                        ]
-                      },
-                      "text" : "策展團隊",
-                      "key" : "773ji",
-                      "type" : "unstyled"
-                    }
-                  ],
-                  "__class" : "StyledTextDraft"
+                "locked" : false,
+                "sepiaEnabled" : 0,
+                "fillGradient" : {
+                  "end" : "rgba(0,0,0,0)",
+                  "alpha" : 1,
+                  "angle" : 0,
+                  "__class" : "LinearGradient",
+                  "start" : "black"
                 },
-                "blendingMode" : "normal",
-                "invert" : 0,
+                "blur" : 12,
+                "radiusTopLeft" : 8,
                 "sepia" : 0,
-                "centerAnchorX" : 0.4966216216216216,
-                "blurEnabled" : 0,
-                "shadows" : [
+                "borderColor" : "#FFEE66",
+                "rotation" : 0,
+                "borderLeft" : 1,
+                "fillEnabled" : false,
+                "right" : 24,
+                "opacity" : 1,
+                "name" : "menu-team",
+                "blendingMode" : "normal",
+                "contrast" : 100,
+                "centerAnchorY" : 0.7195121951219512,
+                "height" : 50,
+                "borderWidth" : 1,
+                "radiusIsRelative" : false,
+                "hueRotate" : 0,
+                "borderStyle" : "solid",
+                "brightnessEnabled" : 0,
+                "borderPerSide" : false,
+                "saturateEnabled" : 0,
+                "aspectRatioLocked" : false,
+                "borderRight" : 1,
+                "parentid" : "nrvHn8zv_",
+                "intrinsicWidth" : null,
+                "radiusBottomLeft" : 8,
+                "boxShadows" : [
 
                 ],
-                "parentid" : "VbjGTI_8j",
-                "brightnessEnabled" : 0,
+                "contrastEnabled" : 0,
+                "borderEnabled" : 1,
+                "radiusPerCorner" : false,
+                "radiusTopRight" : 8,
+                "invert" : 0,
+                "__class" : "FrameNode",
+                "fillImage" : null,
+                "clip" : false,
+                "fillType" : "color",
+                "visible" : true,
+                "invertEnabled" : 0,
+                "heightFactor" : null,
+                "width" : 160,
+                "intrinsicHeight" : null,
+                "borderBottom" : 1,
+                "deviceType" : null,
+                "bottom" : 21,
+                "borderTop" : 1,
+                "targetName" : "menu_team",
+                "radiusBottomRight" : 8,
+                "blurEnabled" : 0
+              },
+              {
+                "radius" : 8,
+                "brightness" : 100,
+                "hueRotateEnabled" : 0,
+                "children" : [
+                  {
+                    "sepiaEnabled" : 0,
+                    "editable" : false,
+                    "rotation" : 0,
+                    "blurType" : "layer",
+                    "__class" : "TextNode",
+                    "id" : "LtFskyyTZ",
+                    "saturateEnabled" : 0,
+                    "grayscale" : 0,
+                    "hueRotateEnabled" : 0,
+                    "widthFactor" : null,
+                    "opacity" : 1,
+                    "contrastEnabled" : 0,
+                    "locked" : false,
+                    "left" : 28,
+                    "styledText" : {
+                      "cached" : {
+                        "size" : {
+                          "width" : 97,
+                          "height" : 36
+                        },
+                        "os" : "10_12",
+                        "width" : 0,
+                        "html" : "<span data-offset-key=\"773ji-0-0\" style=\"tab-size:4;font-family:&quot;NotoSansCJKtc-Light&quot;, &quot;Noto Sans CJK TC&quot;, sans-serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:24px;letter-spacing:0px;line-height:1.5;font-weight:200\"><span data-text=\"true\">交通資訊<\/span><\/span>"
+                      },
+                      "entityMap" : {
+
+                      },
+                      "blocks" : [
+                        {
+                          "depth" : 0,
+                          "inlineStyleRanges" : [
+                            {
+                              "style" : "COLOR:hsl(0, 0%, 100%)",
+                              "length" : 4,
+                              "offset" : 0
+                            },
+                            {
+                              "style" : "LETTERSPACING:0",
+                              "length" : 4,
+                              "offset" : 0
+                            },
+                            {
+                              "style" : "LINEHEIGHT:1.5",
+                              "length" : 4,
+                              "offset" : 0
+                            },
+                            {
+                              "style" : "SIZE:24",
+                              "length" : 4,
+                              "offset" : 0
+                            },
+                            {
+                              "style" : "ALIGN:center",
+                              "length" : 4,
+                              "offset" : 0
+                            },
+                            {
+                              "style" : "FONT:NotoSansCJKtc-Light",
+                              "length" : 4,
+                              "offset" : 0
+                            }
+                          ],
+                          "entityRanges" : [
+
+                          ],
+                          "data" : {
+                            "emptyStyle" : [
+                              "COLOR:hsl(0, 0%, 100%)",
+                              "LETTERSPACING:0",
+                              "LINEHEIGHT:1.5",
+                              "SIZE:24",
+                              "ALIGN:center",
+                              "FONT:NotoSansCJKtc-Light"
+                            ]
+                          },
+                          "text" : "交通資訊",
+                          "key" : "773ji",
+                          "type" : "unstyled"
+                        }
+                      ],
+                      "__class" : "StyledTextDraft"
+                    },
+                    "blendingMode" : "normal",
+                    "invert" : 0,
+                    "sepia" : 0,
+                    "centerAnchorX" : 0.496875,
+                    "blurEnabled" : 0,
+                    "shadows" : [
+
+                    ],
+                    "parentid" : "tDLVFC4Ow",
+                    "brightnessEnabled" : 0,
+                    "exportOptions" : [
+
+                    ],
+                    "name" : null,
+                    "saturate" : 100,
+                    "height" : 36,
+                    "blendingEnabled" : 0,
+                    "top" : null,
+                    "constraintsLocked" : false,
+                    "right" : null,
+                    "visible" : true,
+                    "centerAnchorY" : 0.48,
+                    "contrast" : 100,
+                    "grayScaleEnabled" : 0,
+                    "hueRotate" : 0,
+                    "heightFactor" : null,
+                    "targetName" : null,
+                    "bottom" : null,
+                    "blur" : 12,
+                    "autoSize" : true,
+                    "invertEnabled" : 0,
+                    "width" : 97,
+                    "brightness" : 100
+                  }
+                ],
+                "centerAnchorX" : 0.7226666666666667,
+                "id" : "tDLVFC4Ow",
                 "exportOptions" : [
 
                 ],
-                "name" : null,
-                "saturate" : 100,
-                "height" : 36,
-                "blendingEnabled" : 0,
-                "top" : null,
-                "constraintsLocked" : false,
-                "right" : null,
-                "visible" : true,
-                "centerAnchorY" : 0.48,
-                "contrast" : 100,
+                "exportIncludesBackground" : true,
                 "grayScaleEnabled" : 0,
-                "hueRotate" : 0,
-                "heightFactor" : null,
-                "targetName" : null,
-                "bottom" : null,
-                "blur" : 12,
-                "autoSize" : true,
-                "invertEnabled" : 0,
-                "width" : 97,
-                "brightness" : 100
-              }
-            ],
-            "centerAnchorX" : 0.4986666666666666,
-            "id" : "VbjGTI_8j",
-            "exportOptions" : [
-
-            ],
-            "exportIncludesBackground" : true,
-            "grayScaleEnabled" : 0,
-            "fillImagePixelHeight" : null,
-            "fillImagePixelWidth" : null,
-            "constraintsLocked" : false,
-            "fillImageResize" : "fill",
-            "blurType" : "layer",
-            "fillColor" : "rgba(0, 170, 255, 0.5)",
-            "widthFactor" : null,
-            "blendingEnabled" : 0,
-            "grayscale" : 0,
-            "top" : null,
-            "saturate" : 100,
-            "left" : null,
-            "locked" : false,
-            "sepiaEnabled" : 0,
-            "fillGradient" : {
-              "end" : "rgba(0,0,0,0)",
-              "alpha" : 1,
-              "angle" : 0,
-              "__class" : "LinearGradient",
-              "start" : "black"
-            },
-            "blur" : 12,
-            "radiusTopLeft" : 8,
-            "sepia" : 0,
-            "borderColor" : "#FFEE66",
-            "rotation" : 0,
-            "borderLeft" : 1,
-            "fillEnabled" : false,
-            "right" : null,
-            "opacity" : 1,
-            "name" : "menu-team",
-            "blendingMode" : "normal",
-            "contrast" : 100,
-            "centerAnchorY" : 0.8800599700149925,
-            "height" : 50,
-            "borderWidth" : 1,
-            "radiusIsRelative" : false,
-            "hueRotate" : 0,
-            "borderStyle" : "solid",
-            "brightnessEnabled" : 0,
-            "borderPerSide" : false,
-            "saturateEnabled" : 0,
-            "aspectRatioLocked" : false,
-            "borderRight" : 1,
-            "parentid" : "dReQTzJIS",
-            "intrinsicWidth" : null,
-            "radiusBottomLeft" : 8,
-            "boxShadows" : [
-
-            ],
-            "contrastEnabled" : 0,
-            "borderEnabled" : 1,
-            "radiusPerCorner" : false,
-            "radiusTopRight" : 8,
-            "invert" : 0,
-            "__class" : "FrameNode",
-            "fillImage" : null,
-            "clip" : false,
-            "fillType" : "color",
-            "visible" : true,
-            "invertEnabled" : 0,
-            "heightFactor" : null,
-            "width" : 160,
-            "intrinsicHeight" : null,
-            "borderBottom" : 1,
-            "deviceType" : null,
-            "bottom" : 55,
-            "borderTop" : 1,
-            "targetName" : "menu_team",
-            "radiusBottomRight" : 8,
-            "blurEnabled" : 0
-          },
-          {
-            "radius" : 8,
-            "brightness" : 100,
-            "hueRotateEnabled" : 0,
-            "children" : [
-              {
-                "sepiaEnabled" : 0,
-                "editable" : false,
-                "rotation" : 0,
+                "fillImagePixelHeight" : null,
+                "fillImagePixelWidth" : null,
+                "constraintsLocked" : true,
+                "fillImageResize" : "fill",
                 "blurType" : "layer",
-                "__class" : "TextNode",
-                "id" : "LtFskyyTZ",
-                "saturateEnabled" : 0,
-                "grayscale" : 0,
-                "hueRotateEnabled" : 0,
+                "fillColor" : "rgba(0, 170, 255, 0.5)",
                 "widthFactor" : null,
-                "opacity" : 1,
-                "contrastEnabled" : 0,
-                "locked" : false,
-                "left" : 28,
-                "styledText" : {
-                  "cached" : {
-                    "size" : {
-                      "width" : 97,
-                      "height" : 36
-                    },
-                    "os" : "10_12",
-                    "width" : 0,
-                    "html" : "<span data-offset-key=\"773ji-0-0\" style=\"tab-size:4;font-family:&quot;NotoSansCJKtc-Light&quot;, &quot;Noto Sans CJK TC&quot;, sans-serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:24px;letter-spacing:0px;line-height:1.5;font-weight:200\"><span data-text=\"true\">交通資訊<\/span><\/span>"
-                  },
-                  "entityMap" : {
-
-                  },
-                  "blocks" : [
-                    {
-                      "depth" : 0,
-                      "inlineStyleRanges" : [
-                        {
-                          "style" : "COLOR:hsl(0, 0%, 100%)",
-                          "length" : 4,
-                          "offset" : 0
-                        },
-                        {
-                          "style" : "LETTERSPACING:0",
-                          "length" : 4,
-                          "offset" : 0
-                        },
-                        {
-                          "style" : "LINEHEIGHT:1.5",
-                          "length" : 4,
-                          "offset" : 0
-                        },
-                        {
-                          "style" : "SIZE:24",
-                          "length" : 4,
-                          "offset" : 0
-                        },
-                        {
-                          "style" : "ALIGN:center",
-                          "length" : 4,
-                          "offset" : 0
-                        },
-                        {
-                          "style" : "FONT:NotoSansCJKtc-Light",
-                          "length" : 4,
-                          "offset" : 0
-                        }
-                      ],
-                      "entityRanges" : [
-
-                      ],
-                      "data" : {
-                        "emptyStyle" : [
-                          "COLOR:hsl(0, 0%, 100%)",
-                          "LETTERSPACING:0",
-                          "LINEHEIGHT:1.5",
-                          "SIZE:24",
-                          "ALIGN:center",
-                          "FONT:NotoSansCJKtc-Light"
-                        ]
-                      },
-                      "text" : "交通資訊",
-                      "key" : "773ji",
-                      "type" : "unstyled"
-                    }
-                  ],
-                  "__class" : "StyledTextDraft"
-                },
-                "blendingMode" : "normal",
-                "invert" : 0,
-                "sepia" : 0,
-                "centerAnchorX" : 0.496875,
-                "blurEnabled" : 0,
-                "shadows" : [
-
-                ],
-                "parentid" : "tDLVFC4Ow",
-                "brightnessEnabled" : 0,
-                "exportOptions" : [
-
-                ],
-                "name" : null,
-                "saturate" : 100,
-                "height" : 36,
                 "blendingEnabled" : 0,
-                "top" : null,
-                "constraintsLocked" : false,
-                "right" : null,
-                "visible" : true,
-                "centerAnchorY" : 0.48,
-                "contrast" : 100,
-                "grayScaleEnabled" : 0,
-                "hueRotate" : 0,
-                "heightFactor" : null,
-                "targetName" : null,
-                "bottom" : null,
-                "blur" : 12,
-                "autoSize" : true,
-                "invertEnabled" : 0,
-                "width" : 97,
-                "brightness" : 100
-              }
-            ],
-            "centerAnchorX" : 0.4986666666666666,
-            "id" : "tDLVFC4Ow",
-            "exportOptions" : [
-
-            ],
-            "exportIncludesBackground" : true,
-            "grayScaleEnabled" : 0,
-            "fillImagePixelHeight" : null,
-            "fillImagePixelWidth" : null,
-            "constraintsLocked" : false,
-            "fillImageResize" : "fill",
-            "blurType" : "layer",
-            "fillColor" : "rgba(0, 170, 255, 0.5)",
-            "widthFactor" : null,
-            "blendingEnabled" : 0,
-            "grayscale" : 0,
-            "top" : null,
-            "saturate" : 100,
-            "left" : null,
-            "locked" : false,
-            "sepiaEnabled" : 0,
-            "fillGradient" : {
-              "end" : "rgba(0,0,0,0)",
-              "alpha" : 1,
-              "angle" : 0,
-              "__class" : "LinearGradient",
-              "start" : "black"
-            },
-            "blur" : 12,
-            "radiusTopLeft" : 8,
-            "sepia" : 0,
-            "borderColor" : "#FFEE66",
-            "rotation" : 0,
-            "borderLeft" : 1,
-            "fillEnabled" : false,
-            "right" : null,
-            "opacity" : 1,
-            "name" : "menu-map",
-            "blendingMode" : "normal",
-            "contrast" : 100,
-            "centerAnchorY" : 0.7811094452773614,
-            "height" : 50,
-            "borderWidth" : 1,
-            "radiusIsRelative" : false,
-            "hueRotate" : 0,
-            "borderStyle" : "solid",
-            "brightnessEnabled" : 0,
-            "borderPerSide" : false,
-            "saturateEnabled" : 0,
-            "aspectRatioLocked" : false,
-            "borderRight" : 1,
-            "parentid" : "dReQTzJIS",
-            "intrinsicWidth" : null,
-            "radiusBottomLeft" : 8,
-            "boxShadows" : [
-
-            ],
-            "contrastEnabled" : 0,
-            "borderEnabled" : 1,
-            "radiusPerCorner" : false,
-            "radiusTopRight" : 8,
-            "invert" : 0,
-            "__class" : "FrameNode",
-            "fillImage" : null,
-            "clip" : false,
-            "fillType" : "color",
-            "visible" : true,
-            "invertEnabled" : 0,
-            "heightFactor" : null,
-            "width" : 160,
-            "intrinsicHeight" : null,
-            "borderBottom" : 1,
-            "deviceType" : null,
-            "bottom" : 121,
-            "borderTop" : 1,
-            "targetName" : "menu_map",
-            "radiusBottomRight" : 8,
-            "blurEnabled" : 0
-          },
-          {
-            "radius" : 8,
-            "brightness" : 100,
-            "hueRotateEnabled" : 0,
-            "children" : [
-              {
-                "sepiaEnabled" : 0,
-                "editable" : false,
-                "rotation" : 0,
-                "blurType" : "layer",
-                "__class" : "TextNode",
-                "id" : "U6GGrEMQK",
-                "saturateEnabled" : 0,
                 "grayscale" : 0,
-                "hueRotateEnabled" : 0,
-                "widthFactor" : null,
-                "opacity" : 1,
-                "contrastEnabled" : 0,
-                "locked" : false,
-                "left" : 31,
-                "styledText" : {
-                  "cached" : {
-                    "size" : {
-                      "width" : 97,
-                      "height" : 36
-                    },
-                    "os" : "10_12",
-                    "width" : 0,
-                    "html" : "<span data-offset-key=\"773ji-0-0\" style=\"tab-size:4;font-family:&quot;NotoSansCJKtc-Light&quot;, &quot;Noto Sans CJK TC&quot;, sans-serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:24px;letter-spacing:0px;line-height:1.5;font-weight:200\"><span data-text=\"true\">展場動線<\/span><\/span>"
-                  },
-                  "entityMap" : {
-
-                  },
-                  "blocks" : [
-                    {
-                      "depth" : 0,
-                      "inlineStyleRanges" : [
-                        {
-                          "style" : "COLOR:hsl(0, 0%, 100%)",
-                          "length" : 4,
-                          "offset" : 0
-                        },
-                        {
-                          "style" : "LETTERSPACING:0",
-                          "length" : 4,
-                          "offset" : 0
-                        },
-                        {
-                          "style" : "LINEHEIGHT:1.5",
-                          "length" : 4,
-                          "offset" : 0
-                        },
-                        {
-                          "style" : "SIZE:24",
-                          "length" : 4,
-                          "offset" : 0
-                        },
-                        {
-                          "style" : "ALIGN:center",
-                          "length" : 4,
-                          "offset" : 0
-                        },
-                        {
-                          "style" : "FONT:NotoSansCJKtc-Light",
-                          "length" : 4,
-                          "offset" : 0
-                        }
-                      ],
-                      "entityRanges" : [
-
-                      ],
-                      "data" : {
-                        "emptyStyle" : [
-                          "COLOR:hsl(0, 0%, 100%)",
-                          "LETTERSPACING:0",
-                          "LINEHEIGHT:1.5",
-                          "SIZE:24",
-                          "ALIGN:center",
-                          "FONT:NotoSansCJKtc-Light"
-                        ]
-                      },
-                      "text" : "展場動線",
-                      "key" : "773ji",
-                      "type" : "unstyled"
-                    }
-                  ],
-                  "__class" : "StyledTextDraft"
-                },
-                "blendingMode" : "normal",
-                "invert" : 0,
-                "sepia" : 0,
-                "centerAnchorX" : 0.496875,
-                "blurEnabled" : 0,
-                "shadows" : [
-
-                ],
-                "parentid" : "Nlx0pfxax",
-                "brightnessEnabled" : 0,
-                "exportOptions" : [
-
-                ],
-                "name" : null,
+                "top" : 27,
                 "saturate" : 100,
-                "height" : 36,
-                "blendingEnabled" : 0,
-                "top" : null,
-                "constraintsLocked" : false,
-                "right" : null,
-                "visible" : true,
-                "centerAnchorY" : 0.48,
-                "contrast" : 100,
-                "grayScaleEnabled" : 0,
-                "hueRotate" : 0,
-                "heightFactor" : null,
-                "targetName" : null,
-                "bottom" : null,
-                "blur" : 12,
-                "autoSize" : true,
-                "invertEnabled" : 0,
-                "width" : 97,
-                "brightness" : 100
-              }
-            ],
-            "centerAnchorX" : 0.4986666666666666,
-            "id" : "Nlx0pfxax",
-            "exportOptions" : [
-
-            ],
-            "exportIncludesBackground" : true,
-            "grayScaleEnabled" : 0,
-            "fillImagePixelHeight" : null,
-            "fillImagePixelWidth" : null,
-            "constraintsLocked" : false,
-            "fillImageResize" : "fill",
-            "blurType" : "layer",
-            "fillColor" : "rgba(0, 170, 255, 0.5)",
-            "widthFactor" : null,
-            "blendingEnabled" : 0,
-            "grayscale" : 0,
-            "top" : null,
-            "saturate" : 100,
-            "left" : null,
-            "locked" : false,
-            "sepiaEnabled" : 0,
-            "fillGradient" : {
-              "end" : "rgba(0,0,0,0)",
-              "alpha" : 1,
-              "angle" : 0,
-              "__class" : "LinearGradient",
-              "start" : "black"
-            },
-            "blur" : 12,
-            "radiusTopLeft" : 8,
-            "sepia" : 0,
-            "borderColor" : "#FFEE66",
-            "rotation" : 0,
-            "borderLeft" : 1,
-            "fillEnabled" : false,
-            "right" : null,
-            "opacity" : 1,
-            "name" : "menu-layout",
-            "blendingMode" : "normal",
-            "contrast" : 100,
-            "centerAnchorY" : 0.6821589205397302,
-            "height" : 50,
-            "borderWidth" : 1,
-            "radiusIsRelative" : false,
-            "hueRotate" : 0,
-            "borderStyle" : "solid",
-            "brightnessEnabled" : 0,
-            "borderPerSide" : false,
-            "saturateEnabled" : 0,
-            "aspectRatioLocked" : false,
-            "borderRight" : 1,
-            "parentid" : "dReQTzJIS",
-            "intrinsicWidth" : null,
-            "radiusBottomLeft" : 8,
-            "boxShadows" : [
-
-            ],
-            "contrastEnabled" : 0,
-            "borderEnabled" : 1,
-            "radiusPerCorner" : false,
-            "radiusTopRight" : 8,
-            "invert" : 0,
-            "__class" : "FrameNode",
-            "fillImage" : null,
-            "clip" : false,
-            "fillType" : "color",
-            "visible" : true,
-            "invertEnabled" : 0,
-            "heightFactor" : null,
-            "width" : 160,
-            "intrinsicHeight" : null,
-            "borderBottom" : 1,
-            "deviceType" : null,
-            "bottom" : 187,
-            "borderTop" : 1,
-            "targetName" : "menu_layout",
-            "radiusBottomRight" : 8,
-            "blurEnabled" : 0
-          },
-          {
-            "radius" : 8,
-            "brightness" : 100,
-            "hueRotateEnabled" : 0,
-            "children" : [
-              {
-                "sepiaEnabled" : 0,
-                "editable" : false,
-                "rotation" : 0,
-                "blurType" : "layer",
-                "__class" : "TextNode",
-                "id" : "GarAhmNl4",
-                "saturateEnabled" : 0,
-                "grayscale" : 0,
-                "hueRotateEnabled" : 0,
-                "widthFactor" : null,
-                "opacity" : 1,
-                "contrastEnabled" : 0,
-                "locked" : false,
                 "left" : null,
-                "styledText" : {
-                  "cached" : {
-                    "size" : {
-                      "width" : 134,
-                      "height" : 36
-                    },
-                    "os" : "10_12",
-                    "width" : 0,
-                    "html" : "<span data-offset-key=\"773ji-0-0\" style=\"tab-size:4;font-family:&quot;NotoSansCJKtc-Light&quot;, &quot;Noto Sans CJK TC&quot;, sans-serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:24px;letter-spacing:0px;line-height:1.5;font-weight:200\"><span data-text=\"true\">關於Ergobar<\/span><\/span>"
-                  },
-                  "entityMap" : {
-
-                  },
-                  "blocks" : [
-                    {
-                      "depth" : 0,
-                      "inlineStyleRanges" : [
-                        {
-                          "style" : "COLOR:hsl(0, 0%, 100%)",
-                          "length" : 9,
-                          "offset" : 0
-                        },
-                        {
-                          "style" : "LETTERSPACING:0",
-                          "length" : 9,
-                          "offset" : 0
-                        },
-                        {
-                          "style" : "LINEHEIGHT:1.5",
-                          "length" : 9,
-                          "offset" : 0
-                        },
-                        {
-                          "style" : "SIZE:24",
-                          "length" : 9,
-                          "offset" : 0
-                        },
-                        {
-                          "style" : "ALIGN:center",
-                          "length" : 9,
-                          "offset" : 0
-                        },
-                        {
-                          "style" : "FONT:NotoSansCJKtc-Light",
-                          "length" : 9,
-                          "offset" : 0
-                        }
-                      ],
-                      "entityRanges" : [
-
-                      ],
-                      "data" : {
-                        "emptyStyle" : [
-                          "COLOR:hsl(0, 0%, 100%)",
-                          "LETTERSPACING:0",
-                          "LINEHEIGHT:1.5",
-                          "SIZE:24",
-                          "ALIGN:center",
-                          "FONT:NotoSansCJKtc-Light"
-                        ]
-                      },
-                      "text" : "關於Ergobar",
-                      "key" : "773ji",
-                      "type" : "unstyled"
-                    }
-                  ],
-                  "__class" : "StyledTextDraft"
+                "locked" : false,
+                "sepiaEnabled" : 0,
+                "fillGradient" : {
+                  "end" : "rgba(0,0,0,0)",
+                  "alpha" : 1,
+                  "angle" : 0,
+                  "__class" : "LinearGradient",
+                  "start" : "black"
                 },
-                "blendingMode" : "normal",
-                "invert" : 0,
+                "blur" : 12,
+                "radiusTopLeft" : 8,
                 "sepia" : 0,
-                "centerAnchorX" : 0.49375,
-                "blurEnabled" : 0,
-                "shadows" : [
+                "borderColor" : "#FFEE66",
+                "rotation" : 0,
+                "borderLeft" : 1,
+                "fillEnabled" : false,
+                "right" : 24,
+                "opacity" : 1,
+                "name" : "menu-map",
+                "blendingMode" : "normal",
+                "contrast" : 100,
+                "centerAnchorY" : 0.3170731707317073,
+                "height" : 50,
+                "borderWidth" : 1,
+                "radiusIsRelative" : false,
+                "hueRotate" : 0,
+                "borderStyle" : "solid",
+                "brightnessEnabled" : 0,
+                "borderPerSide" : false,
+                "saturateEnabled" : 0,
+                "aspectRatioLocked" : false,
+                "borderRight" : 1,
+                "parentid" : "nrvHn8zv_",
+                "intrinsicWidth" : null,
+                "radiusBottomLeft" : 8,
+                "boxShadows" : [
 
                 ],
-                "parentid" : "dX7PEyd7z",
-                "brightnessEnabled" : 0,
+                "contrastEnabled" : 0,
+                "borderEnabled" : 1,
+                "radiusPerCorner" : false,
+                "radiusTopRight" : 8,
+                "invert" : 0,
+                "__class" : "FrameNode",
+                "fillImage" : null,
+                "clip" : false,
+                "fillType" : "color",
+                "visible" : true,
+                "invertEnabled" : 0,
+                "heightFactor" : null,
+                "width" : 160,
+                "intrinsicHeight" : null,
+                "borderBottom" : 1,
+                "deviceType" : null,
+                "bottom" : 87,
+                "borderTop" : 1,
+                "targetName" : "menu_map",
+                "radiusBottomRight" : 8,
+                "blurEnabled" : 0
+              },
+              {
+                "radius" : 8,
+                "brightness" : 100,
+                "hueRotateEnabled" : 0,
+                "children" : [
+                  {
+                    "sepiaEnabled" : 0,
+                    "editable" : false,
+                    "rotation" : 0,
+                    "blurType" : "layer",
+                    "__class" : "TextNode",
+                    "id" : "U6GGrEMQK",
+                    "saturateEnabled" : 0,
+                    "grayscale" : 0,
+                    "hueRotateEnabled" : 0,
+                    "widthFactor" : null,
+                    "opacity" : 1,
+                    "contrastEnabled" : 0,
+                    "locked" : false,
+                    "left" : 31,
+                    "styledText" : {
+                      "cached" : {
+                        "size" : {
+                          "width" : 97,
+                          "height" : 36
+                        },
+                        "os" : "10_12",
+                        "width" : 0,
+                        "html" : "<span data-offset-key=\"773ji-0-0\" style=\"tab-size:4;font-family:&quot;NotoSansCJKtc-Light&quot;, &quot;Noto Sans CJK TC&quot;, sans-serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:24px;letter-spacing:0px;line-height:1.5;font-weight:200\"><span data-text=\"true\">展場動線<\/span><\/span>"
+                      },
+                      "entityMap" : {
+
+                      },
+                      "blocks" : [
+                        {
+                          "depth" : 0,
+                          "inlineStyleRanges" : [
+                            {
+                              "style" : "COLOR:hsl(0, 0%, 100%)",
+                              "length" : 4,
+                              "offset" : 0
+                            },
+                            {
+                              "style" : "LETTERSPACING:0",
+                              "length" : 4,
+                              "offset" : 0
+                            },
+                            {
+                              "style" : "LINEHEIGHT:1.5",
+                              "length" : 4,
+                              "offset" : 0
+                            },
+                            {
+                              "style" : "SIZE:24",
+                              "length" : 4,
+                              "offset" : 0
+                            },
+                            {
+                              "style" : "ALIGN:center",
+                              "length" : 4,
+                              "offset" : 0
+                            },
+                            {
+                              "style" : "FONT:NotoSansCJKtc-Light",
+                              "length" : 4,
+                              "offset" : 0
+                            }
+                          ],
+                          "entityRanges" : [
+
+                          ],
+                          "data" : {
+                            "emptyStyle" : [
+                              "COLOR:hsl(0, 0%, 100%)",
+                              "LETTERSPACING:0",
+                              "LINEHEIGHT:1.5",
+                              "SIZE:24",
+                              "ALIGN:center",
+                              "FONT:NotoSansCJKtc-Light"
+                            ]
+                          },
+                          "text" : "展場動線",
+                          "key" : "773ji",
+                          "type" : "unstyled"
+                        }
+                      ],
+                      "__class" : "StyledTextDraft"
+                    },
+                    "blendingMode" : "normal",
+                    "invert" : 0,
+                    "sepia" : 0,
+                    "centerAnchorX" : 0.496875,
+                    "blurEnabled" : 0,
+                    "shadows" : [
+
+                    ],
+                    "parentid" : "Nlx0pfxax",
+                    "brightnessEnabled" : 0,
+                    "exportOptions" : [
+
+                    ],
+                    "name" : null,
+                    "saturate" : 100,
+                    "height" : 36,
+                    "blendingEnabled" : 0,
+                    "top" : null,
+                    "constraintsLocked" : false,
+                    "right" : null,
+                    "visible" : true,
+                    "centerAnchorY" : 0.48,
+                    "contrast" : 100,
+                    "grayScaleEnabled" : 0,
+                    "hueRotate" : 0,
+                    "heightFactor" : null,
+                    "targetName" : null,
+                    "bottom" : null,
+                    "blur" : 12,
+                    "autoSize" : true,
+                    "invertEnabled" : 0,
+                    "width" : 97,
+                    "brightness" : 100
+                  }
+                ],
+                "centerAnchorX" : 0.2746666666666667,
+                "id" : "Nlx0pfxax",
                 "exportOptions" : [
 
                 ],
-                "name" : null,
-                "saturate" : 100,
-                "height" : 36,
-                "blendingEnabled" : 0,
-                "top" : null,
-                "constraintsLocked" : false,
-                "right" : null,
-                "visible" : true,
-                "centerAnchorY" : 0.48,
-                "contrast" : 100,
+                "exportIncludesBackground" : true,
                 "grayScaleEnabled" : 0,
-                "hueRotate" : 0,
-                "heightFactor" : null,
-                "targetName" : null,
-                "bottom" : null,
+                "fillImagePixelHeight" : null,
+                "fillImagePixelWidth" : null,
+                "constraintsLocked" : true,
+                "fillImageResize" : "fill",
+                "blurType" : "layer",
+                "fillColor" : "rgba(0, 170, 255, 0.5)",
+                "widthFactor" : null,
+                "blendingEnabled" : 0,
+                "grayscale" : 0,
+                "top" : 93,
+                "saturate" : 100,
+                "left" : 23,
+                "locked" : false,
+                "sepiaEnabled" : 0,
+                "fillGradient" : {
+                  "end" : "rgba(0,0,0,0)",
+                  "alpha" : 1,
+                  "angle" : 0,
+                  "__class" : "LinearGradient",
+                  "start" : "black"
+                },
                 "blur" : 12,
-                "autoSize" : true,
+                "radiusTopLeft" : 8,
+                "sepia" : 0,
+                "borderColor" : "#FFEE66",
+                "rotation" : 0,
+                "borderLeft" : 1,
+                "fillEnabled" : false,
+                "right" : null,
+                "opacity" : 1,
+                "name" : "menu-layout",
+                "blendingMode" : "normal",
+                "contrast" : 100,
+                "centerAnchorY" : 0.7195121951219512,
+                "height" : 50,
+                "borderWidth" : 1,
+                "radiusIsRelative" : false,
+                "hueRotate" : 0,
+                "borderStyle" : "solid",
+                "brightnessEnabled" : 0,
+                "borderPerSide" : false,
+                "saturateEnabled" : 0,
+                "aspectRatioLocked" : false,
+                "borderRight" : 1,
+                "parentid" : "nrvHn8zv_",
+                "intrinsicWidth" : null,
+                "radiusBottomLeft" : 8,
+                "boxShadows" : [
+
+                ],
+                "contrastEnabled" : 0,
+                "borderEnabled" : 1,
+                "radiusPerCorner" : false,
+                "radiusTopRight" : 8,
+                "invert" : 0,
+                "__class" : "FrameNode",
+                "fillImage" : null,
+                "clip" : false,
+                "fillType" : "color",
+                "visible" : true,
                 "invertEnabled" : 0,
-                "width" : 134,
-                "brightness" : 100
+                "heightFactor" : null,
+                "width" : 160,
+                "intrinsicHeight" : null,
+                "borderBottom" : 1,
+                "deviceType" : null,
+                "bottom" : 21,
+                "borderTop" : 1,
+                "targetName" : "menu_layout",
+                "radiusBottomRight" : 8,
+                "blurEnabled" : 0
+              },
+              {
+                "radius" : 8,
+                "brightness" : 100,
+                "hueRotateEnabled" : 0,
+                "children" : [
+                  {
+                    "sepiaEnabled" : 0,
+                    "editable" : false,
+                    "rotation" : 0,
+                    "blurType" : "layer",
+                    "__class" : "TextNode",
+                    "id" : "GarAhmNl4",
+                    "saturateEnabled" : 0,
+                    "grayscale" : 0,
+                    "hueRotateEnabled" : 0,
+                    "widthFactor" : null,
+                    "opacity" : 1,
+                    "contrastEnabled" : 0,
+                    "locked" : false,
+                    "left" : null,
+                    "styledText" : {
+                      "cached" : {
+                        "size" : {
+                          "width" : 134,
+                          "height" : 36
+                        },
+                        "os" : "10_12",
+                        "width" : 0,
+                        "html" : "<span data-offset-key=\"773ji-0-0\" style=\"tab-size:4;font-family:&quot;NotoSansCJKtc-Light&quot;, &quot;Noto Sans CJK TC&quot;, sans-serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:24px;letter-spacing:0px;line-height:1.5;font-weight:200\"><span data-text=\"true\">關於Ergobar<\/span><\/span>"
+                      },
+                      "entityMap" : {
+
+                      },
+                      "blocks" : [
+                        {
+                          "depth" : 0,
+                          "inlineStyleRanges" : [
+                            {
+                              "style" : "COLOR:hsl(0, 0%, 100%)",
+                              "length" : 9,
+                              "offset" : 0
+                            },
+                            {
+                              "style" : "LETTERSPACING:0",
+                              "length" : 9,
+                              "offset" : 0
+                            },
+                            {
+                              "style" : "LINEHEIGHT:1.5",
+                              "length" : 9,
+                              "offset" : 0
+                            },
+                            {
+                              "style" : "SIZE:24",
+                              "length" : 9,
+                              "offset" : 0
+                            },
+                            {
+                              "style" : "ALIGN:center",
+                              "length" : 9,
+                              "offset" : 0
+                            },
+                            {
+                              "style" : "FONT:NotoSansCJKtc-Light",
+                              "length" : 9,
+                              "offset" : 0
+                            }
+                          ],
+                          "entityRanges" : [
+
+                          ],
+                          "data" : {
+                            "emptyStyle" : [
+                              "COLOR:hsl(0, 0%, 100%)",
+                              "LETTERSPACING:0",
+                              "LINEHEIGHT:1.5",
+                              "SIZE:24",
+                              "ALIGN:center",
+                              "FONT:NotoSansCJKtc-Light"
+                            ]
+                          },
+                          "text" : "關於Ergobar",
+                          "key" : "773ji",
+                          "type" : "unstyled"
+                        }
+                      ],
+                      "__class" : "StyledTextDraft"
+                    },
+                    "blendingMode" : "normal",
+                    "invert" : 0,
+                    "sepia" : 0,
+                    "centerAnchorX" : 0.49375,
+                    "blurEnabled" : 0,
+                    "shadows" : [
+
+                    ],
+                    "parentid" : "dX7PEyd7z",
+                    "brightnessEnabled" : 0,
+                    "exportOptions" : [
+
+                    ],
+                    "name" : null,
+                    "saturate" : 100,
+                    "height" : 36,
+                    "blendingEnabled" : 0,
+                    "top" : null,
+                    "constraintsLocked" : false,
+                    "right" : null,
+                    "visible" : true,
+                    "centerAnchorY" : 0.48,
+                    "contrast" : 100,
+                    "grayScaleEnabled" : 0,
+                    "hueRotate" : 0,
+                    "heightFactor" : null,
+                    "targetName" : null,
+                    "bottom" : null,
+                    "blur" : 12,
+                    "autoSize" : true,
+                    "invertEnabled" : 0,
+                    "width" : 134,
+                    "brightness" : 100
+                  }
+                ],
+                "centerAnchorX" : 0.2746666666666667,
+                "id" : "dX7PEyd7z",
+                "exportOptions" : [
+
+                ],
+                "exportIncludesBackground" : true,
+                "grayScaleEnabled" : 0,
+                "fillImagePixelHeight" : null,
+                "fillImagePixelWidth" : null,
+                "constraintsLocked" : true,
+                "fillImageResize" : "fill",
+                "blurType" : "layer",
+                "fillColor" : "hsl(203, 17%, 27%)",
+                "widthFactor" : null,
+                "blendingEnabled" : 0,
+                "grayscale" : 0,
+                "top" : 27,
+                "saturate" : 100,
+                "left" : 23,
+                "locked" : false,
+                "sepiaEnabled" : 0,
+                "fillGradient" : {
+                  "end" : "rgba(0,0,0,0)",
+                  "alpha" : 1,
+                  "angle" : 0,
+                  "__class" : "LinearGradient",
+                  "start" : "black"
+                },
+                "blur" : 12,
+                "radiusTopLeft" : 8,
+                "sepia" : 0,
+                "borderColor" : "#FFEE66",
+                "rotation" : 0,
+                "borderLeft" : 1,
+                "fillEnabled" : false,
+                "right" : null,
+                "opacity" : 1,
+                "name" : "menu-about",
+                "blendingMode" : "normal",
+                "contrast" : 100,
+                "centerAnchorY" : 0.3170731707317073,
+                "height" : 50,
+                "borderWidth" : 1,
+                "radiusIsRelative" : false,
+                "hueRotate" : 0,
+                "borderStyle" : "solid",
+                "brightnessEnabled" : 0,
+                "borderPerSide" : false,
+                "saturateEnabled" : 0,
+                "aspectRatioLocked" : false,
+                "borderRight" : 1,
+                "parentid" : "nrvHn8zv_",
+                "intrinsicWidth" : null,
+                "radiusBottomLeft" : 8,
+                "boxShadows" : [
+
+                ],
+                "contrastEnabled" : 0,
+                "borderEnabled" : 1,
+                "radiusPerCorner" : false,
+                "radiusTopRight" : 8,
+                "invert" : 0,
+                "__class" : "FrameNode",
+                "fillImage" : null,
+                "clip" : false,
+                "fillType" : "color",
+                "visible" : true,
+                "invertEnabled" : 0,
+                "heightFactor" : null,
+                "width" : 160,
+                "intrinsicHeight" : null,
+                "borderBottom" : 1,
+                "deviceType" : null,
+                "bottom" : 87,
+                "borderTop" : 1,
+                "targetName" : "menu_about",
+                "radiusBottomRight" : 8,
+                "blurEnabled" : 0
               }
             ],
-            "centerAnchorX" : 0.4986666666666666,
-            "id" : "dX7PEyd7z",
+            "centerAnchorX" : 0.5,
+            "id" : "nrvHn8zv_",
             "exportOptions" : [
 
             ],
@@ -3161,13 +3129,13 @@
             "constraintsLocked" : false,
             "fillImageResize" : "fill",
             "blurType" : "layer",
-            "fillColor" : "hsl(203, 17%, 27%)",
+            "fillColor" : "rgba(0, 170, 255, 0.5)",
             "widthFactor" : null,
             "blendingEnabled" : 0,
             "grayscale" : 0,
             "top" : null,
             "saturate" : 100,
-            "left" : null,
+            "left" : 0,
             "locked" : false,
             "sepiaEnabled" : 0,
             "fillGradient" : {
@@ -3178,19 +3146,19 @@
               "start" : "black"
             },
             "blur" : 12,
-            "radiusTopLeft" : 8,
+            "radiusTopLeft" : 0,
             "sepia" : 0,
-            "borderColor" : "#FFEE66",
+            "borderColor" : "#222",
             "rotation" : 0,
             "borderLeft" : 1,
             "fillEnabled" : false,
-            "right" : null,
+            "right" : 0,
             "opacity" : 1,
-            "name" : "menu-about",
+            "name" : null,
             "blendingMode" : "normal",
             "contrast" : 100,
-            "centerAnchorY" : 0.5832083958020989,
-            "height" : 50,
+            "centerAnchorY" : 0.7331334332833583,
+            "height" : 164,
             "borderWidth" : 1,
             "radiusIsRelative" : false,
             "hueRotate" : 0,
@@ -3202,14 +3170,14 @@
             "borderRight" : 1,
             "parentid" : "dReQTzJIS",
             "intrinsicWidth" : null,
-            "radiusBottomLeft" : 8,
+            "radiusBottomLeft" : 0,
             "boxShadows" : [
 
             ],
             "contrastEnabled" : 0,
-            "borderEnabled" : 1,
+            "borderEnabled" : 0,
             "radiusPerCorner" : false,
-            "radiusTopRight" : 8,
+            "radiusTopRight" : 0,
             "invert" : 0,
             "__class" : "FrameNode",
             "fillImage" : null,
@@ -3218,14 +3186,14 @@
             "visible" : true,
             "invertEnabled" : 0,
             "heightFactor" : null,
-            "width" : 160,
+            "width" : 375,
             "intrinsicHeight" : null,
             "borderBottom" : 1,
             "deviceType" : null,
-            "bottom" : 253,
+            "bottom" : 96,
             "borderTop" : 1,
-            "targetName" : "menu_about",
-            "radiusBottomRight" : 8,
+            "targetName" : null,
+            "radiusBottomRight" : 0,
             "blurEnabled" : 0
           }
         ],
@@ -3816,6 +3784,297 @@
             "borderBottom" : 1,
             "deviceType" : null,
             "bottom" : null,
+            "borderTop" : 1,
+            "targetName" : null,
+            "radiusBottomRight" : 0,
+            "blurEnabled" : 0
+          },
+          {
+            "radius" : 0,
+            "brightness" : 100,
+            "hueRotateEnabled" : 0,
+            "children" : [
+              {
+                "radius" : 0,
+                "brightness" : 100,
+                "hueRotateEnabled" : 0,
+                "children" : [
+
+                ],
+                "centerAnchorX" : 0.5013333333333333,
+                "id" : "vNyFusz08",
+                "exportOptions" : [
+
+                ],
+                "exportIncludesBackground" : true,
+                "grayScaleEnabled" : 0,
+                "fillImagePixelHeight" : 2616,
+                "fillImagePixelWidth" : 2475,
+                "constraintsLocked" : false,
+                "fillImageResize" : "fill",
+                "blurType" : "layer",
+                "fillColor" : "rgba(255,255,255,1)",
+                "widthFactor" : null,
+                "blendingEnabled" : 0,
+                "grayscale" : 0,
+                "top" : 20,
+                "saturate" : 100,
+                "left" : null,
+                "locked" : false,
+                "sepiaEnabled" : 0,
+                "fillGradient" : {
+                  "end" : "rgba(0,0,0,0)",
+                  "alpha" : 1,
+                  "angle" : 0,
+                  "__class" : "LinearGradient",
+                  "start" : "black"
+                },
+                "blur" : 12,
+                "radiusTopLeft" : 0,
+                "sepia" : 0,
+                "borderColor" : "#222",
+                "rotation" : 0,
+                "borderLeft" : 1,
+                "fillEnabled" : true,
+                "right" : null,
+                "opacity" : 1,
+                "name" : null,
+                "blendingMode" : "normal",
+                "contrast" : 100,
+                "originalFilename" : "G-logo-w@4x.png",
+                "centerAnchorY" : 0.345,
+                "height" : 167,
+                "borderWidth" : 1,
+                "radiusIsRelative" : false,
+                "hueRotate" : 0,
+                "borderStyle" : "solid",
+                "brightnessEnabled" : 0,
+                "borderPerSide" : false,
+                "saturateEnabled" : 0,
+                "aspectRatioLocked" : true,
+                "borderRight" : 1,
+                "parentid" : "JDjkTTxmh",
+                "intrinsicWidth" : 1237.5,
+                "radiusBottomLeft" : 0,
+                "boxShadows" : [
+
+                ],
+                "contrastEnabled" : 0,
+                "borderEnabled" : 0,
+                "radiusPerCorner" : false,
+                "radiusTopRight" : 0,
+                "invert" : 0,
+                "__class" : "FrameNode",
+                "fillImage" : "CRP9o9bsTKGfBzKWuAIBW9L4wqUD6HMgi0ZekPL8F3Anm3YY5DF0z5ejdoP904OktJUrCIs5iJJgDXF9ng.png",
+                "clip" : false,
+                "fillType" : "image",
+                "visible" : true,
+                "invertEnabled" : 0,
+                "heightFactor" : null,
+                "width" : 158,
+                "intrinsicHeight" : 1308,
+                "borderBottom" : 1,
+                "deviceType" : null,
+                "bottom" : null,
+                "borderTop" : 1,
+                "targetName" : null,
+                "radiusBottomRight" : 0,
+                "blurEnabled" : 0
+              },
+              {
+                "sepiaEnabled" : 0,
+                "editable" : false,
+                "rotation" : 0,
+                "blurType" : "layer",
+                "x" : 173,
+                "id" : "QDFOuOixs",
+                "saturateEnabled" : 0,
+                "y" : 534,
+                "grayscale" : 0,
+                "hueRotateEnabled" : 0,
+                "__class" : "TextNode",
+                "widthFactor" : null,
+                "opacity" : 1,
+                "contrastEnabled" : 0,
+                "locked" : false,
+                "left" : null,
+                "styledText" : {
+                  "cached" : {
+                    "size" : {
+                      "width" : 145,
+                      "height" : 72
+                    },
+                    "os" : "10_12",
+                    "width" : 0,
+                    "html" : "<span data-offset-key=\"2q3ba-0-0\" style=\"tab-size:4;font-family:&quot;NotoSansCJKtc-Black&quot;, &quot;Noto Sans CJK TC&quot;, sans-serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:48px;letter-spacing:0px;line-height:1.5;font-weight:800\"><span data-text=\"true\">作業中<\/span><\/span>"
+                  },
+                  "entityMap" : {
+
+                  },
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 3,
+                          "style" : "COLOR:hsl(0, 0%, 100%)",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 3,
+                          "style" : "LETTERSPACING:0",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 3,
+                          "style" : "LINEHEIGHT:1.5",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 3,
+                          "style" : "ALIGN:center",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 3,
+                          "style" : "FONT:NotoSansCJKtc-Black",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 3,
+                          "style" : "SIZE:48",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "COLOR:hsl(0, 0%, 100%)",
+                          "LETTERSPACING:0",
+                          "LINEHEIGHT:1.5",
+                          "ALIGN:center",
+                          "FONT:NotoSansCJKtc-Black",
+                          "SIZE:48"
+                        ]
+                      },
+                      "text" : "作業中",
+                      "key" : "2q3ba",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft"
+                },
+                "blendingMode" : "normal",
+                "invert" : 0,
+                "sepia" : 0,
+                "centerAnchorX" : 0.5186666666666667,
+                "blurEnabled" : 0,
+                "shadows" : [
+
+                ],
+                "parentid" : "JDjkTTxmh",
+                "brightnessEnabled" : 0,
+                "exportOptions" : [
+
+                ],
+                "name" : null,
+                "saturate" : 100,
+                "height" : 72,
+                "blendingEnabled" : 0,
+                "top" : null,
+                "constraintsLocked" : true,
+                "right" : null,
+                "visible" : true,
+                "centerAnchorY" : 0.8233333333333334,
+                "contrast" : 100,
+                "grayScaleEnabled" : 0,
+                "hueRotate" : 0,
+                "heightFactor" : null,
+                "targetName" : null,
+                "bottom" : 17,
+                "blur" : 12,
+                "autoSize" : true,
+                "invertEnabled" : 0,
+                "width" : 145,
+                "brightness" : 100
+              }
+            ],
+            "centerAnchorX" : 0.5,
+            "id" : "JDjkTTxmh",
+            "exportOptions" : [
+
+            ],
+            "exportIncludesBackground" : true,
+            "grayScaleEnabled" : 0,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "constraintsLocked" : false,
+            "fillImageResize" : "fill",
+            "blurType" : "layer",
+            "fillColor" : "rgba(0, 170, 255, 0.5)",
+            "widthFactor" : null,
+            "blendingEnabled" : 0,
+            "grayscale" : 0,
+            "top" : null,
+            "saturate" : 100,
+            "left" : 0,
+            "locked" : false,
+            "sepiaEnabled" : 0,
+            "fillGradient" : {
+              "end" : "rgba(0,0,0,0)",
+              "alpha" : 1,
+              "angle" : 0,
+              "__class" : "LinearGradient",
+              "start" : "black"
+            },
+            "blur" : 12,
+            "radiusTopLeft" : 0,
+            "sepia" : 0,
+            "borderColor" : "#222",
+            "rotation" : 0,
+            "borderLeft" : 1,
+            "fillEnabled" : false,
+            "right" : 0,
+            "opacity" : 1,
+            "name" : null,
+            "blendingMode" : "normal",
+            "contrast" : 100,
+            "centerAnchorY" : 0.623688155922039,
+            "height" : 300,
+            "borderWidth" : 1,
+            "radiusIsRelative" : false,
+            "hueRotate" : 0,
+            "borderStyle" : "solid",
+            "brightnessEnabled" : 0,
+            "borderPerSide" : false,
+            "saturateEnabled" : 0,
+            "aspectRatioLocked" : false,
+            "borderRight" : 1,
+            "parentid" : "kT1CGviBi",
+            "intrinsicWidth" : null,
+            "radiusBottomLeft" : 0,
+            "boxShadows" : [
+
+            ],
+            "contrastEnabled" : 0,
+            "borderEnabled" : 0,
+            "radiusPerCorner" : false,
+            "radiusTopRight" : 0,
+            "invert" : 0,
+            "__class" : "FrameNode",
+            "fillImage" : null,
+            "clip" : false,
+            "fillType" : "color",
+            "visible" : true,
+            "invertEnabled" : 0,
+            "heightFactor" : null,
+            "width" : 375,
+            "intrinsicHeight" : null,
+            "borderBottom" : 1,
+            "deviceType" : null,
+            "bottom" : 101,
             "borderTop" : 1,
             "targetName" : null,
             "radiusBottomRight" : 0,
