@@ -4,6 +4,7 @@
   "designModeSelected" : 0,
   "cachedDeviceHeight" : 0,
   "contentScale" : 1,
+  "fullScreen" : false,
   "cachedDeviceWidth" : 0,
   "deviceType" : "fullscreen",
   "sharedPrototype" : 0,
@@ -17,5 +18,5 @@
   "foldedCodeRanges" : [
 
   ],
-  "deviceScale" : 1
+  "deviceScale" : -1
 }

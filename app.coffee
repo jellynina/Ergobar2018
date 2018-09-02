@@ -3,7 +3,7 @@ Framer.Device.deviceType = "fullscreen"
 flow = new FlowComponent
 flow.showNext(view_home)
 
-flow.height = Canvas.height
+flow.height = Framer.Device.height
 
 #Style
 h1 = 
