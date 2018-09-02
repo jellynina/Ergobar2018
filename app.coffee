@@ -21,8 +21,8 @@ btn =
 info_text.html = '<h1>國立成功大學工業設計所乙組<br>人因互動設計實驗室成員作品展 <br> 時間：09/14（五）~ 9 / 16（日）<br> 地點：台南市公園路739號<h1>'
 info_text.style = h1
 
-gap = Canvas.width * 0.2 / 4
-itemWidth = Canvas.width * 0.4
+gap = menu.width * 0.2 / 4
+itemWidth = menu.width * 0.4
 
 about = new Layer
 	parent: menu
