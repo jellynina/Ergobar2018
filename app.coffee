@@ -79,7 +79,7 @@ layout = new Layer
 	height: 50
 	backgroundColor: 'rgba(0,0,0,0)'
 	x: gap
-	y: 50 + gap
+	y: 70
 	html: '展場動線'
 	style: btn
 
@@ -93,7 +93,7 @@ team = new Layer
 	height: 50
 	backgroundColor: 'rgba(0,0,0,0)'
 	x: itemWidth + gap * 3
-	y: 50 + gap
+	y: 70
 	html: '策展團隊'
 	style: btn
 

@@ -4,9 +4,9 @@
 既能改og tag
 
 ```html
-<meta property="og:url"                content="http://www.nytimes.com/2015/02/19/arts/international/when-great-minds-dont-think-alike.html" />
-<meta property="og:type"               content="article" />
-<meta property="og:title"              content="When Great Minds Don’t Think Alike" />
-<meta property="og:description"        content="How much does culture influence creative thinking?" />
-<meta property="og:image"              content="http://static01.nyt.com/images/2015/02/19/arts/international/19iht-btnumbers19A/19iht-btnumbers19A-facebookJumbo-v2.jpg" />
+<meta property="og:url"                content="http://jellynina.me/Ergobar2018" />
+<meta property="og:type"               content="website" />
+<meta property="og:title"              content="地方二樓 Ergobar 2018 | 人機互動展" />
+<meta property="og:description"        content="國立成功大學 工業設計系 人因互動實驗室 乙組 ｜ 陳建旭 教授 ｜人機互動 作品展 ｜台南市公園路739號" />
+<meta property="og:image"         content="http://jellynina.me/Ergobar2018/images/ergobarInvite.jpg" />
 ```
