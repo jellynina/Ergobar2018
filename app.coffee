@@ -4,7 +4,7 @@ Framer.Extras.Hints.enable()
 Framer.Device.deviceType = "fullscreen"
 # Show home page
 flow = new FlowComponent
-flow.showNext(view_home)
+flow.showNext(view_layout)
 
 #Style
 h1 = 
@@ -124,13 +124,13 @@ about.onTapEnd (event, layer) ->
 	this.backgroundColor = 'rgba(0,0,0,0)'
 team.onTapEnd (event, layer) ->
 	this.backgroundColor = 'rgba(0,0,0,0)'
-	
 
 
-
+icn_home.onTap ->
+	flow.showNext(view_home);
+layout_title.onTap ->
+	flow.showNext(view_home);
 back.onTap ->
-	flow.showPrevious()	
-back_1.onTap ->
 	flow.showPrevious()
 back_2.onTap ->
 	flow.showPrevious()
@@ -143,9 +143,3 @@ g_map_link.onTap (event, layer) ->
 
 
 onGoing.center()
-
-# Variables
-rows = 16
-gutter = 10
-rowHeight = 200
-
