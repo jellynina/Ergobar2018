@@ -10,3 +10,7 @@
 <meta property="og:description"        content="國立成功大學 工業設計系 人因互動實驗室 乙組 ｜ 陳建旭 教授 ｜人機互動 作品展 ｜台南市公園路739號" />
 <meta property="og:image"         content="http://jellynina.me/Ergobar2018/images/ergobarInvite.jpg" />
 ```
+
+## 參考資料
+
+- 使用JSON放資料 [Prototype with real data in Framer](https://blog.framer.com/prototype-with-real-data-in-framer-from-json-to-multi-device-and-internet-of-things-6eb1ae8b8325)

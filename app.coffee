@@ -5,7 +5,7 @@ Framer.Device.deviceType = "fullscreen"
 # Show home page
 flow = new FlowComponent
 flow.showNext(view_layout)
-
+# flow.showNext(view_team)
 #Style
 h1 = 
 	color: '#FFFFFF'
@@ -127,19 +127,102 @@ team.onTapEnd (event, layer) ->
 
 
 icn_home.onTap ->
-	flow.showNext(view_home);
+	flow.showNext(view_home)
 layout_title.onTap ->
-	flow.showNext(view_home);
+	flow.showNext(view_home)
 back.onTap ->
-	flow.showPrevious()
+	flow.showNext(view_home)
 back_2.onTap ->
-	flow.showPrevious()
+	flow.showNext(view_home)
 back_3.onTap ->
-	flow.showPrevious()
+	flow.showNext(view_home)
 
 
 g_map_link.onTap (event, layer) ->
 	window.open('https://goo.gl/maps/mvxU3K12YVN2', '_new')
 
 
-onGoing.center()
+
+# TEAM DATA
+
+data = JSON.parse Utils.domLoadDataSync "data/team.json"
+
+
+
+team = new ScrollComponent
+	parent: view_team
+	width: 500
+	height: 482
+	backgroundColor: 'rgba(0,0,0,0)'
+	y: 228
+
+team.content.backgroundColor = 'rgba(0,0,0,0)'
+
+teamH1 = 
+	color: '#FFFFFF'
+	fontSize: '24px'
+	textAlign: 'center'
+	lineHeight: 1.5
+	width: team.width
+	
+teamItem = 
+	textAlign: "center"
+	fontSize: 16
+	color: "#FFF"
+
+
+for person, index in data.people 
+	people = new Layer
+		parent: team.content
+		width: team.width
+		backgroundColor: 'rgba(0,0,0,0)'
+		y: 151 * index
+	name = new TextLayer
+		text: person.name
+		parent: people
+		width: team.width
+		textAlign: "center"
+		fontSize: 24
+		fontWeight: 600
+		color: "#F5A623"
+	des = new TextLayer
+		text: person.descript
+		parent: people
+		width: team.width
+		textAlign: "center"
+		fontSize: 16
+		color: "#FFF"
+		y: 35
+	item = new TextLayer
+		text: person.item
+		parent: people
+		width: team.width
+		textAlign: "center"
+		fontSize: 16
+		color: "#FFF"
+		y: 60
+	contact = new Layer
+		parent: people
+		width: team.width
+		backgroundColor: 'rgba(0,0,0,0)'
+		style: teamItem
+		y: 80
+		html: '<a style=" color: #FFF; font-size: 15px" href="' + person.href+ '">' + person.contactText+ '</a>'
+	
+
+teamTitle = new TextLayer
+	text: "策展團隊"
+	parent: view_team
+	textAlign: "center"
+	width: view_team.width
+	fontSize: 32
+	color: "#FFF"
+	y: 173
+
+
+team.scrollHorizontal = false
+team.centerX()
+team.y = flow.height - team.height
+
+	
+
