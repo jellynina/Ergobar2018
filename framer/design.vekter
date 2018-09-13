@@ -887,33 +887,33 @@
                       "inlineStyleRanges" : [
                         {
                           "style" : "LETTERSPACING:0",
-                          "offset" : 0,
-                          "length" : 13
+                          "length" : 13,
+                          "offset" : 0
                         },
                         {
                           "style" : "LINEHEIGHT:1.5",
-                          "offset" : 0,
-                          "length" : 13
+                          "length" : 13,
+                          "offset" : 0
                         },
                         {
                           "style" : "SIZE:24",
-                          "offset" : 0,
-                          "length" : 13
+                          "length" : 13,
+                          "offset" : 0
                         },
                         {
                           "style" : "ALIGN:center",
-                          "offset" : 0,
-                          "length" : 13
+                          "length" : 13,
+                          "offset" : 0
                         },
                         {
                           "style" : "FONT:NotoSansCJKtc-Light",
-                          "offset" : 0,
-                          "length" : 13
+                          "length" : 13,
+                          "offset" : 0
                         },
                         {
                           "style" : "COLOR:#22CCDD",
-                          "offset" : 0,
-                          "length" : 13
+                          "length" : 13,
+                          "offset" : 0
                         }
                       ],
                       "entityRanges" : [
@@ -1448,7 +1448,6 @@
             "visible" : true,
             "fillType" : "color",
             "invertEnabled" : 0,
-            "clip" : false,
             "heightFactor" : null,
             "width" : 24,
             "intrinsicHeight" : 24,
@@ -1506,7 +1505,6 @@
             "name" : null,
             "blendingMode" : "normal",
             "contrast" : 100,
-            "originalFilename" : "img_layout.png",
             "centerAnchorY" : 0.5652173913043478,
             "height" : 566,
             "borderWidth" : 1,
@@ -1958,10 +1956,10 @@
         "visible" : true,
         "invertEnabled" : 0,
         "heightFactor" : null,
-        "width" : 577,
+        "width" : 375,
         "intrinsicHeight" : null,
         "borderBottom" : 1,
-        "deviceType" : null,
+        "deviceType" : "apple-iphone-8-space-gray",
         "bottom" : null,
         "borderTop" : 1,
         "targetName" : "view_home",
@@ -3199,33 +3197,33 @@
                       "inlineStyleRanges" : [
                         {
                           "style" : "COLOR:hsl(0, 0%, 100%)",
-                          "offset" : 0,
-                          "length" : 3
+                          "length" : 3,
+                          "offset" : 0
                         },
                         {
                           "style" : "LETTERSPACING:0",
-                          "offset" : 0,
-                          "length" : 3
+                          "length" : 3,
+                          "offset" : 0
                         },
                         {
                           "style" : "LINEHEIGHT:1.5",
-                          "offset" : 0,
-                          "length" : 3
+                          "length" : 3,
+                          "offset" : 0
                         },
                         {
                           "style" : "ALIGN:center",
-                          "offset" : 0,
-                          "length" : 3
+                          "length" : 3,
+                          "offset" : 0
                         },
                         {
                           "style" : "FONT:NotoSansCJKtc-Black",
-                          "offset" : 0,
-                          "length" : 3
+                          "length" : 3,
+                          "offset" : 0
                         },
                         {
                           "style" : "SIZE:48",
-                          "offset" : 0,
-                          "length" : 3
+                          "length" : 3,
+                          "offset" : 0
                         }
                       ],
                       "entityRanges" : [
